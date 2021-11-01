@@ -1,0 +1,50 @@
+.contact{
+    padding-left: 3%;
+    padding-right: 3%;
+
+}
+
+.contact-box{
+    width: 100%;
+    height: fit-content;
+    border: solid;
+    border-width: 1px;
+    border-color: #44444475;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    font-size: 18px;
+}
+.contact-box-title{
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.contact-box-number{
+    font-size: 20px;
+}
+
+.contact-box-sec{
+    width: 100%;
+    height: fit-content;
+    border: solid;
+    border-width: 1px;
+    border-color: #44444475;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+
+}
+.icon-facebook{
+    padding-right: 3%;
+    padding-left: 4%;
+    
+}
+
+.contact-box:hover{
+    background-color: #505F6B;
+}
+
+.contact-box-sec:hover{
+    background-color: #505F6B;
+}

@@ -1,0 +1,16 @@
+.about-us:hover{
+    background-color: #505F6B;
+}
+
+.about-us{
+    width: 100%;
+    height: fit-content;
+    border: solid;
+    border-width: 1px;
+    border-color: #44444475;
+    background-color: #B7FFE5;
+    padding-left: 3%;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+
+}
+
